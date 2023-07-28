@@ -1,0 +1,35 @@
+body,html {margin:0; padding:0;background-color:white;}
+
+
+ 
+#mycanvas1{
+color:#0000FF;
+background-repeat:no-repeat;
+background-position:center;
+background-color:aliceblue;
+border:1.5px solid black;
+}
+#mycanvas2{
+	color:#0000FF;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:aliceblue;
+	border:1.5px solid black;
+	}
+
+
+#table {
+	height:600px;
+	overflow-y:auto;
+}
+
+#mytable {
+	text-align:center;
+}
+#headerTable {
+	border-bottom:none;
+	font-weight:bold;
+	text-align:center;
+	font-size:14px;
+}
+
